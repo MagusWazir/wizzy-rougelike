@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/8bit Dungeon Level.wav-a090ac3a2ac89555562c2a221295f6f7.sample"
+
+[deps]
+
+source_file="res://Assets/Audio/Music/8bit Dungeon Level.wav"
+dest_files=[ "res://.import/8bit Dungeon Level.wav-a090ac3a2ac89555562c2a221295f6f7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

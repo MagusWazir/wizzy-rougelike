@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/Scenes/Effects/FCTManager.gd" type="Script" id=1]
+
+[node name="FCTManager" type="Node2D"]
+z_index = 4
+z_as_relative = false
+script = ExtResource( 1 )
